@@ -41,10 +41,15 @@ li{
 }
 .popular{
     color: var(--primary);
+} 
+section{
+    overflow-x: hidden;
 }
 body{
     color: #fff;
     background-color:#000;
+    overflow-x: hidden;
+    box-sizing: border-box;
     overflow-x: hidden;
 }
 .btn1:hover{
