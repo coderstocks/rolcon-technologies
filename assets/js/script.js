@@ -5,7 +5,7 @@ AOS.init({
   $('.product-card').slick({
     dots: false,
     infinite: true,
-    centerMode: false,
+    centerMode: true,
     arrows: false,
     speed: 150,
     slidesToShow: 3,
