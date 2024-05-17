@@ -58,6 +58,9 @@ body{
     color: #111!important;
     box-shadow: 0 0 20px #fff;
 }
+.topbar {
+    font-size: 14px;
+}
 /* Header */
 nav.navbar{
     position: -webkit-sticky !important;
