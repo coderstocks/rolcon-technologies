@@ -189,6 +189,9 @@ nav .nav-link::before{
     border: 1px solid #555!important;
     background-color: transparent!important;
 }
+.products .card-title{
+    color: black;
+}
 .products .card:hover .card-title{
     color: var(--primary);
 }
