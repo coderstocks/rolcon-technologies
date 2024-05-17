@@ -46,8 +46,8 @@ section{
     overflow-x: hidden;
 }
 body{
-    color: #000;
-    background-color:#fff;
+    color: #000!important;
+    background-color:#fff!important;
     overflow-x: hidden;
     box-sizing: border-box;
     overflow-x: hidden;
