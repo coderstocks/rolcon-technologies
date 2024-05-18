@@ -104,3 +104,12 @@ AOS.init({
       }
     }
   });
+
+  function triple() {
+    let toggle = document.body;
+    toggle.classList.toggle("product-triple");
+  }
+  function double() {
+    let toggle = document.body;
+    toggle.classList.toggle("product-double");
+  }
