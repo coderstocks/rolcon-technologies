@@ -101,7 +101,7 @@ nav .nav-link::before{
 .dropdown-menu{
     padding: 0;
     box-shadow: 0 0 10px var(--primary);    
-    background-color: var(--primary);
+    background-color: var(--primary)!important;
 }
 .dropdown-menu li {
     position: relative;
@@ -388,4 +388,3 @@ footer a:hover{
       margin: 15px;
     }
   }
-  
