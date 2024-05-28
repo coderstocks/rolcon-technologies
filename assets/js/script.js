@@ -113,3 +113,58 @@ AOS.init({
     let toggle = document.body;
     toggle.classList.toggle("product-double");
   }
+  function cbaler() {
+    let toggle = document.body;
+    toggle.classList.toggle("product-cbaler");
+  }
+  function contbaler() {
+    let toggle = document.body;
+    toggle.classList.toggle("product-cont-baler");
+  }
+  function fbaler() {
+    let toggle = document.body;
+    toggle.classList.toggle("product-fbaler");
+  }
+  function atbaler() {
+    let toggle = document.body;
+    toggle.classList.toggle("product-atbaler");
+  }
+  // Shearing Machine
+  function horsm() {
+    let toggle = document.body;
+    toggle.classList.toggle("product-horsm");
+  }
+  function alism() {
+    let toggle = document.body;
+    toggle.classList.toggle("product-alism");
+  }
+  function incsm() {
+    let toggle = document.body;
+    toggle.classList.toggle("product-incsm");
+  }
+  // SHredder Machine
+  function tsshm() {
+    let toggle = document.body;
+    toggle.classList.toggle("product-tsshm");
+  }
+  function ssshm() {
+    let toggle = document.body;
+    toggle.classList.toggle("product-ssshm");
+  }
+  function pshm() {
+    let toggle = document.body;
+    toggle.classList.toggle("product-pshm");
+  }
+  function ewshm() {
+    let toggle = document.body;
+    toggle.classList.toggle("product-ewshm");
+  }
+    // Brequetting Machine
+    function bbm() {
+      let toggle = document.body;
+      toggle.classList.toggle("product-bbm");
+    }
+    function mbm() {
+      let toggle = document.body;
+      toggle.classList.toggle("product-mbm");
+    }

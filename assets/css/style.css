@@ -392,15 +392,114 @@ footer a:hover{
     height: 250px;
     object-fit: contain;
   }
+  /* Triple Compression Scrap Baling Press */
   .product-triple .triple{
     display: block!important;
   }
   .product-triple .pro-spec{
       display: block!important;
     }
-    .product-double .double{
+  /* Double Compression Scrap Baling Press */
+  .product-double .double{
       display: block!important;
     }
     .product-double .pro-spec{
         display: block!important;
       }
+  /* Car Baler Scrap Baling Press */
+  .product-cbaler .cbaler{
+    display: block!important;
+  }
+  .product-cbaler .pro-spec{
+      display: block!important;
+    }
+    /* Continouse Baler Scrap Baling Press */
+  .product-cont-baler .cont-baler{
+    display: block!important;
+  }
+  .product-cont-baler .pro-spec{
+      display: block!important;
+    }
+        /* Fodder Baler Scrap Baling Press */
+  .product-fbaler .fbaler{
+    display: block!important;
+  }
+  .product-fbaler .pro-spec{
+      display: block!important;
+    }
+        /* Auto tie paper Baler Scrap Baling Press */
+  .product-atbaler .atbaler{
+    display: block!important;
+  }
+  .product-atbaler .pro-spec{
+      display: block!important;
+    }
+
+    /* Shearing Machines */
+ /*Horizontal Shearing Machine */
+  .product-horsm .horsm{
+    display: block!important;
+  }
+  .product-horsm .pro-spec{
+      display: block!important;
+    }
+/*Horizontal Shearing Machine */
+.product-alism .alism{
+  display: block!important;
+}
+.product-alism .pro-spec{
+    display: block!important;
+  }
+/*Horizontal Shearing Machine */
+.product-incsm .incsm{
+  display: block!important;
+}
+.product-incsm .pro-spec{
+    display: block!important;
+  }
+
+  /* Shredder Machine */
+/*Twin Shaft Shredder Machine */
+.product-tsshm .tsshm{
+  display: block!important;
+}
+.product-tsshm .pro-spec{
+  display: block!important;
+}
+/*Single Shaft Shredder Machine */
+.product-ssshm .ssshm{
+  display: block!important;
+}
+.product-ssshm .pro-spec{
+  display: block!important;
+}
+/*Twin Shaft Shredder Machine */
+.product-pshm .pshm{
+  display: block!important;
+}
+.product-pshm .pro-spec{
+  display: block!important;
+}
+/*Twin Shaft Shredder Machine */
+.product-ewshm .ewshm{
+  display: block!important;
+}
+.product-ewshm .pro-spec{
+  display: block!important;
+}
+
+ /* Brequetting Machine */
+/*Metal Chip Brequetting Machine */
+.product-mbm .mbm{
+  display: block!important;
+}
+.product-mbm .pro-spec{
+  display: block!important;
+}
+/*Biomass Brequetting Machine */
+.product-bbm .bbm{
+  display: block!important;
+}
+.product-bbm .pro-spec{
+  display: block!important;
+}
