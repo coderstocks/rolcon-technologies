@@ -503,3 +503,118 @@ footer a:hover{
 .product-bbm .pro-spec{
   display: block!important;
 }
+/* Bobbins */
+/*Wire Drawing Bobbin Bobbins */
+.product-wdb .wdb{
+  display: block!important;
+}
+.product-wdb .pro-spec{
+  display: block!important;
+}
+/*Wire Drum Steel Bobbin Bobbins */
+.product-wdsb .wdsb{
+  display: block!important;
+}
+.product-wdsb .pro-spec{
+  display: block!important;
+}
+/*Wire Steel Bobbin Bobbins */
+.product-wsb .wsb{
+  display: block!important;
+}
+.product-wsb .pro-spec{
+  display: block!important;
+}
+/*Machine Bobbin Bobbins */
+.product-mb .mb{
+  display: block!important;
+}
+.product-mb .pro-spec{
+  display: block!important;
+}
+
+/* Drums */
+/*Wire Drawing Drums */
+.product-adcsd .adcsd{
+  display: block!important;
+}
+.product-adcsd .pro-spec{
+  display: block!important;
+}
+/*Wire Drum Steel Drums */
+.product-icd .icd{
+  display: block!important;
+}
+.product-icd .pro-spec{
+  display: block!important;
+}
+/*Wire Steel Drums */
+.product-pcd .pcd{
+  display: block!important;
+}
+.product-pcd .pro-spec{
+  display: block!important;
+}
+/*Machine Drums */
+.product-hdscd .hdscd{
+  display: block!important;
+}
+.product-hdscd .pro-spec{
+  display: block!important;
+}
+/*Machine Drums */
+.product-mscd .mscd{
+  display: block!important;
+}
+.product-mscd .pro-spec{
+  display: block!important;
+}
+
+/*--------------------------------------------------------------
+# Contact Section
+--------------------------------------------------------------*/
+.contact .info-item {
+  box-shadow: 0px 0px 20px color-mix(in srgb, var(--primary), transparent 90%);
+  padding: 20px 30px;
+}
+
+.contact .info-item .icon {
+  color: white;
+  background-color: var(--secondary);
+  width: 56px;
+  height: 56px;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s ease-in-out;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.contact .info-item h3 {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 5px 0;
+  font-family: var(--default-font);
+  color: color-mix(in srgb, var(--primary), transparent 30%);
+}
+
+.contact .info-item p {
+  padding: 0;
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+.contact .info-item .social-links a {
+  font-size: 24px;
+  display: inline-block;
+  line-height: 1;
+  margin: 4px 6px 0 0;
+  transition: 0.3s;
+  color: color-mix(in srgb, var(--primary), transparent 50%);
+}
+
+.contact .info-item .social-links a:hover {
+  color: var(--secondary);
+}

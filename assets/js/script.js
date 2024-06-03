@@ -168,3 +168,41 @@ AOS.init({
       let toggle = document.body;
       toggle.classList.toggle("product-mbm");
     }
+     // Bobbins
+     function wdb() {
+      let toggle = document.body;
+      toggle.classList.toggle("product-wdb");
+    }
+    function wdsb() {
+      let toggle = document.body;
+      toggle.classList.toggle("product-wdsb");
+    }
+    function wsb() {
+      let toggle = document.body;
+      toggle.classList.toggle("product-wsb");
+    }
+    function mb() {
+      let toggle = document.body;
+      toggle.classList.toggle("product-mb");
+    }
+     // Drums
+     function icd() {
+      let toggle = document.body;
+      toggle.classList.toggle("product-icd");
+    }
+    function pcd() {
+      let toggle = document.body;
+      toggle.classList.toggle("product-pcd");
+    }
+    function adcsd() {
+      let toggle = document.body;
+      toggle.classList.toggle("product-adcsd");
+    }
+    function hdscd() {
+      let toggle = document.body;
+      toggle.classList.toggle("product-hdscd");
+    }
+    function mscd() {
+      let toggle = document.body;
+      toggle.classList.toggle("product-mscd");
+    }
